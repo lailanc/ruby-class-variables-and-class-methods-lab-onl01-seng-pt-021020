@@ -1,2 +1,2 @@
 class Song 
-  @name: artist: genere
+  attr_accessor name:, artist:, genere
