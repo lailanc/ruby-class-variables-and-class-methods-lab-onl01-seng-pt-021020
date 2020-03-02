@@ -1,2 +1,2 @@
 class Song 
-  name: artist: genere
+  @name: artist: genere
